@@ -1,1 +1,1 @@
-# ProjectEuler-projects
+# ProjectEuler problems
